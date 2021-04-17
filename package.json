@@ -1,7 +1,6 @@
 {
-  "name": "node-starter-kit",
+  "name": "starter-kit",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATedy/Node-Starter-Kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ATedy/Node-Starter-Kit/issues"
+  },
+  "homepage": "https://github.com/ATedy/Node-Starter-Kit#readme",
+  "description": ""
 }
